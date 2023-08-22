@@ -1,0 +1,4 @@
+.piece {
+    width: calc((100vh * 0.9) / 9.5);
+    height: calc((100vh * 0.85) / 9.5);
+}
